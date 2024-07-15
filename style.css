@@ -1,0 +1,15 @@
+.ifoto {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+html{
+    text-align: center;
+    background-color:antiquewhite;
+    font-family:cursive;
+    font-size: 1.4rem;
+    
+}
+p{
+    color: burlywood;
+}
